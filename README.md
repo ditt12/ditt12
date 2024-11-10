@@ -19,7 +19,7 @@
 - **Interests:** Crypto, automation, AI, game modding
 
 ### Connect with Me
-- **Telegram:** [@orangjawa](https://t.me/orangjawa)
+- **Telegram:** [@asyraf](https://t.me/xxknjjut)
 
 ---
 
