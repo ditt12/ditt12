@@ -13,7 +13,7 @@
 - 🌐 Exploring web development with a flair for unique designs.
 
 ### Tech & Tools I Use
-- **Languages:** JavaScript (Node.js), HTML/CSS
+- **Languages:** JavaScript (Node.js),Python,  HTML/CSS
 - **Libraries/Frameworks:** Telegraf, Baileys, Telsra (my npm package), etc.
 - **Tools:** Git, Vercel, GitHub Pages
 - **Interests:** Crypto, automation, AI, game modding
