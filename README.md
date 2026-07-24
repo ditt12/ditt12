@@ -1,7 +1,7 @@
 # Hi, I'm Asyraf! 👋
 
 ### About Me
-- 🧑‍💻 I'm a 13-year-old tech enthusiast diving deep into coding, making bots, and learning all things tech.
+- 🧑‍💻 I'm a 15-year-old tech enthusiast diving deep into coding, making bots, and learning all things tech.
 - 🔥 Passionate about creating projects that solve real problems or just for fun!
 - 🎮 I enjoy gaming and love exploring game development/modding.
 - 📚 Constantly learning new programming languages, frameworks, and tech stacks.
@@ -19,7 +19,7 @@
 - **Interests:** Crypto, automation, AI, game modding
 
 ### Connect with Me
-- **Telegram:** [@asyraf](https://t.me/xxknjjut)
+- **Telegram:** [@asyraf](https://t.me/emonoxide)
 
 ---
 
